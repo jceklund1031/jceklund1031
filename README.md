@@ -1,5 +1,5 @@
 ### Hi there 👋
-file:///Users/JC/Desktop/QA.jpeg
+
 <!--
 **jceklund1031/jceklund1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
